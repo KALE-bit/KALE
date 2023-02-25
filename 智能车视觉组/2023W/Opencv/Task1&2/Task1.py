@@ -28,8 +28,6 @@ for image_file in image_list:
             result[y, x] = [avg, avg, avg]
 
     # 输出结果图像
-    output_file = "output_" + image_file
-    cv2.imwrite(output_file, result)
     cv2.imshow("output_image.jpg", result)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
