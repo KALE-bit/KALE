@@ -4,6 +4,9 @@ import numpy as np
 # 图像列表
 image_list = ["img1.jpg", "img2.jpg", "img3.jpg"]
 
+# 设置阈值
+threshold = 100
+
 # 遍历每个图像
 for image_file in image_list:
     # 读取图像
@@ -22,13 +25,18 @@ for image_file in image_list:
             b, g, r = img[y, x]
 
             # 计算新的像素值
-            resultpixel = (int(r) + int(g) + int(b)) // 3
+            avg = (int(r) + int(g) + int(b)) // 3
+            if avg > threshold:
+                avg = 255
+            else:
+                avg = 0
+
 
             # 设置新的像素值
-            result[y, x] = [resultpixel, resultpixel, resultpixel]
+            result[y, x] = [avg, avg, avg]
 
     # 输出结果图像
-    output_file = "output_" + image_file
+    output_file = "output2_" + image_file
     cv2.imwrite(output_file, result)
     cv2.imshow("output_image.jpg", result)
     cv2.waitKey(0)
