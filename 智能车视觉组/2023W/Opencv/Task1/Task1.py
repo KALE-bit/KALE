@@ -10,7 +10,7 @@ for image_file in image_list:
     img = cv2.imread(image_file)
 
     # 获取图像尺寸
-n    height, width, channels = img.shape
+    height, width, channels = img.shape
 
     # 创建一个和原图像相同大小的数组，用于保存处理后的结果
     result = np.zeros((height, width, channels), dtype=np.uint8)
