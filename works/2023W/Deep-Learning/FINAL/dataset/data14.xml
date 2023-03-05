@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>data14.jpg</filename>
+	<path>E:\Repos\KALE\works\2023W\Deep-Learning\FINAL\pic\data14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>339</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sprite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>83</ymin>
+			<xmax>197</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

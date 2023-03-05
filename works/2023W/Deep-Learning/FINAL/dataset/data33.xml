@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>data33.jpg</filename>
+	<path>E:\Repos\KALE\works\2023W\Deep-Learning\FINAL\pic\data33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepsi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>6</ymin>
+			<xmax>220</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
