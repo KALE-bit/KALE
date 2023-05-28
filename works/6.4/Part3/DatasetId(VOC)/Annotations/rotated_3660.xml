@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>rotated_3660.jpg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>34</xmin>
+      <ymin>1</ymin>
+      <xmax>68</xmax>
+      <ymax>21</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>cropped_1935.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>0</ymin>
+      <xmax>157</xmax>
+      <ymax>87</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>62</ymin>
+      <xmax>62</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+</annotation>

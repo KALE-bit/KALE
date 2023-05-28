@@ -24,7 +24,7 @@ transform = transforms.Compose([
 
 # 定义训练集和测试集的比例和随机种子
 train_ratio = 0.6  # 训练集比例
-random_seed = 142857  # 随机种子
+random_seed = 42  # 随机种子
 
 # 创建训练集和测试集的文件夹
 train_dir = './train_data'

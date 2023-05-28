@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>cropped_3487.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>4</ymin>
+      <xmax>214</xmax>
+      <ymax>56</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>26</ymin>
+      <xmax>135</xmax>
+      <ymax>106</ymax>
+    </bndbox>
+  </object>
+</annotation>

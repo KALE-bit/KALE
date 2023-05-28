@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>rotated_1937.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>109</xmin>
+      <ymin>0</ymin>
+      <xmax>179</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>24</ymin>
+      <xmax>61</xmax>
+      <ymax>150</ymax>
+    </bndbox>
+  </object>
+</annotation>

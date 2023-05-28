@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>rotated_5234.jpg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>3</ymin>
+      <xmax>53</xmax>
+      <ymax>40</ymax>
+    </bndbox>
+  </object>
+</annotation>

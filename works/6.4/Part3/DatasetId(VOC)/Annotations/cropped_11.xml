@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>cropped_11.jpg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>bump</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>115</ymin>
+      <xmax>239</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+</annotation>

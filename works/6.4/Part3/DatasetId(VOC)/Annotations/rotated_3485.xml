@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>rotated_3485.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>240</width>
+    <height>180</height>
+  </size>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>8</ymin>
+      <xmax>191</xmax>
+      <ymax>62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>52</ymin>
+      <xmax>117</xmax>
+      <ymax>125</ymax>
+    </bndbox>
+  </object>
+</annotation>

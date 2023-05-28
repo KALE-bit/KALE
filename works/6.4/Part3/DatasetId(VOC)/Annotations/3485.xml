@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>3485.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>320</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>81</xmin>
+      <ymin>44</ymin>
+      <xmax>178</xmax>
+      <ymax>121</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>19</ymin>
+      <xmax>254</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+</annotation>

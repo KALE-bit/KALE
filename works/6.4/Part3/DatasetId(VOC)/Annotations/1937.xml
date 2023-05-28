@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>1937.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>320</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>13</ymin>
+      <xmax>195</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>81</ymin>
+      <xmax>90</xmax>
+      <ymax>209</ymax>
+    </bndbox>
+  </object>
+</annotation>

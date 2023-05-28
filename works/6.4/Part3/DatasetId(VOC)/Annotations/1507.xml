@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>1507.jpg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>320</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>CrossWalk</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>157</xmin>
+      <ymin>55</ymin>
+      <xmax>235</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

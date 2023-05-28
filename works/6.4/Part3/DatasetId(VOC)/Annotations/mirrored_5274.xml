@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>mirrored_5274.jpg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>320</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>corn</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>18</ymin>
+      <xmax>100</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+</annotation>

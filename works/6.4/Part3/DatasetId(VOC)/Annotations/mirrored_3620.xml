@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>mirrored_3620.jpg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>320</width>
+    <height>240</height>
+  </size>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>148</xmin>
+      <ymin>32</ymin>
+      <xmax>242</xmax>
+      <ymax>105</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tracktor</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>6</ymin>
+      <xmax>137</xmax>
+      <ymax>58</ymax>
+    </bndbox>
+  </object>
+</annotation>
